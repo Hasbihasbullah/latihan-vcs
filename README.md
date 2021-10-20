@@ -34,6 +34,6 @@ Ini adalah tampilannya
 
 <p>   6. Jika ingin menampilkan Gambar pada repository, maka terlebih dahulu buat folder baru lalu isi gambarnya dalam folder tersebut. lalu kembali ke github ketik git add 'Gambar' lalu ketik git commit -m 'Menambah folder gambar' dan ketik git push -u origin main untuk menambahkan folder tersebut ke dalam repository. <p>
 <p>   7. SELESAI- <p>
-![Gambar1](screenshoot/ss1.png)
+
 
 
