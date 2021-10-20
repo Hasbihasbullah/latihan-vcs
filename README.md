@@ -17,6 +17,5 @@ Prosedur yang diterapkan ini dapat membantu antar divisi project untuk memantau 
 
 Ini adalah tampilannya
 ![Gambar1](screenshoot/ss1.png)
- ![image](https://user-images.githubusercontent.com/92858927/138161213-51ed34fb-f867-4393-b134-9c7120d9e3b3.png)
 
 
